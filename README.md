@@ -9,6 +9,7 @@ NBAShotChart_App is a powerful tool for visualizing and analyzing NBA player sho
 - Compare multiple players' shot charts
 - Filter data by season, game type (regular season/playoffs), and more
 - Export charts as high-quality images
+- Interactive Shot Visualization point by point
 
 ## Installation
 To set up the NBAShotChart_App locally, follow these steps:
