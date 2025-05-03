@@ -27,7 +27,7 @@ To run the application:
 
 1. Start the app:
    python main.py
-2. Open your web browser and go to `http://localhost:5000`
+2. Open your web browser and go to `http://localhost:8501`
 3. Follow the on-screen instructions to generate shot charts
 
 ## Data Source
@@ -40,8 +40,7 @@ Contributions to the NBAShotChart_App are welcome! Please feel free to submit a 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For any queries or suggestions, please contact [Your Name] at [your.email@example.com].
+For any queries or suggestions, please contact ... at ....
 
 ## Acknowledgments
-- Thanks to [any libraries, individuals, or resources you want to acknowledge]
-- Inspired by nbapy library, npa_api library
+- Inspired by nbapy library, nba_api library
